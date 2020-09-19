@@ -1,7 +1,7 @@
 # Chuckymagic-RacePredictor
 
-Chuckymagic-RacePredictor is a fun game about two characters yenum and grant running through the forest
-players are given the power to predict the race, this includes:
+Chuckymagic-RacePredictor is a fun game about two characters yenum and grant running through the forest,
+players are also given the power to predict the race, which includes:
     
     who wins,
     time a single character finishes the race or
